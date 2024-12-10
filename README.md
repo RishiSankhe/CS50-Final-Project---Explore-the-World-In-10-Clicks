@@ -75,5 +75,3 @@ With **Explore the World in Ten Clicks**, learn, discover, and travel to new cit
 ---
 
 ## Here is the link to our youtube video: https://youtu.be/cV8Xolwb7o0
-## Here is the link to our project:
-# CS50-Final-Project
